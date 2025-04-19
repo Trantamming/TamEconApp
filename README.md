@@ -6,7 +6,7 @@
 - Sau khi tãi file .zip về thì giải nén được file .exe.
 - Bấm vào file TamEcon.exe để chạy ứng dụng.
 - Enjoy!
-============================================================
+============================================================\
 *** LƯU Ý: ĐÂY LÀ PHẦN MỀM DEMO NÊN CHẮC CHẮN CÓ SAI SÓT ***
 ============================================================
 Chúng tôi sẽ cố gắng update các phiên bản để ứng dụng chạy tốt hơn!  
